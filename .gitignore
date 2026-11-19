@@ -1,0 +1,13 @@
+.venv/
+*.egg-info/
+__pycache__/
+build/
+output/
+/data/
+/manuscript/
+/AGENTS.md
+dist/
+.cache/
+.env
+.env.*
+.DS_Store
